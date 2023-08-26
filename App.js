@@ -5,6 +5,7 @@ import "./App.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Header from "./Header";
 import AddContact from "./AddContact";
+import EditContact from "./EditContact";
 import ContactList from "./ContactList";
 import ContactDetail from "./ContactDetail";
 
